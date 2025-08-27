@@ -1,5 +1,23 @@
 
-🌐 Socials:
+🚀 Apaixonado por tecnologia, movido por desafios e guiado por código.
+
+Sou o William Fagundes, estudante de Engenharia de Software e entusiasta da construção de soluções digitais que realmente fazem a diferença.
+
+💡 Com experiência prática em linguagens como Lua, JavaScript, Java e Python, tenho explorado desde o desenvolvimento de jogos em ambientes acadêmicos até a criação de sites funcionais e responsivos. 
+Além disso, tenho familiaridade com bancos de dados e sólido conhecimento em UX/UI Design, atuando tanto na concepção visual quanto na programação de interfaces gráficas intuitivas e funcionais.
+
+🎮 A lógica por trás dos games, a estética por trás de uma boa interface e o código que dá vida a tudo isso, é nesse ponto de intersecção que gosto de trabalhar.
+
+🌐 Estou em busca de oportunidades para aplicar meus conhecimentos, aprender com profissionais experientes e crescer como desenvolvedor dentro de projetos que impactam pessoas e negócios.
+
+🔧 Tecnologias com as quais já trabalhei:
+
+▪️ Linguagens: Lua, JavaScript, Java, Python, CSS, C+
+▪️ UX/UI Design: prototipagem, wireframes, design centrado no usuário
+▪️ Desenvolvimento Web & Games
+▪️ Banco de dados
+
+🌐 Redes Sociais:
 --------------
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/plusnar) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/plusnar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/plusnar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/williamfagundes08) 
