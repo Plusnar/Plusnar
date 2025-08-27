@@ -1,7 +1,6 @@
-
-🚀 Apaixonado por tecnologia, movido por desafios e guiado por código.
-
-Sou o William Fagundes, estudante de Engenharia de Software e entusiasta da construção de soluções digitais que realmente fazem a diferença.
+William Fagundes
+-----------------
+Estudante de Engenharia de Software e entusiasta da construção de soluções digitais que realmente fazem a diferença.
 
 💡 Com experiência prática em linguagens como Lua, JavaScript, Java e Python, tenho explorado desde o desenvolvimento de jogos em ambientes acadêmicos até a criação de sites funcionais e responsivos. 
 Além disso, tenho familiaridade com bancos de dados e sólido conhecimento em UX/UI Design, atuando tanto na concepção visual quanto na programação de interfaces gráficas intuitivas e funcionais.
