@@ -148,9 +148,6 @@ Building exceptional digital solutions with impact.
 
 ### 🌟 **_"Code that brings ideas to life"_** 🌟
 
-**Last Updated:** April 2026 | **Status:** 🔥 Looking for Opportunities
-
-**Made with ❤️ by William Fagundes | Brazil 🇧🇷**
 
 </div>
 
