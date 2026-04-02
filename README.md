@@ -69,6 +69,7 @@ Building exceptional digital solutions with impact.
 | **Photoshop** | ████████░░ 80% |
 | **Adobe XD** | ███████░░░ 75% |
 | **Blender 3D** | ██████░░░░ 65% |
+| **Corel Draw** | ██████████ 100% |
 
 ---
 
@@ -125,18 +126,6 @@ Building exceptional digital solutions with impact.
 | ⭐⭐⭐⭐☆ | **Web Applications** | Responsive, functional web applications |
 | ⭐⭐⭐⭐☆ | **UI/UX Design** | Modern design & implementation with Figma |
 | ⭐⭐⭐⭐☆ | **Full-Stack Dev** | Complete end-to-end solutions |
-
----
-
-## 📊 GITHUB STATS
-
-<a href="https://github.com/Plusnar">
-  <img src="https://github-readme-stats.vercel.app/api?username=Plusnar&show_icons=true&theme=radical&bg_color=0f0c29&text_color=e0e0e0&icon_color=00d4ff&border_color=00d4ff&hide_border=false" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/Plusnar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plusnar&layout=compact&theme=radical&bg_color=0f0c29&text_color=e0e0e0&border_color=00d4ff&hide_border=false" alt="Top Languages" />
-</a>
 
 ---
 
@@ -225,6 +214,7 @@ Construindo soluções digitais excepcionais com impacto.
 | **Photoshop** | ████████░░ 80% |
 | **Adobe XD** | ███████░░░ 75% |
 | **Blender 3D** | ██████░░░░ 65% |
+| **Corel Draw** | ██████████ 100% |
 
 ---
 
@@ -281,18 +271,6 @@ Construindo soluções digitais excepcionais com impacto.
 | ⭐⭐⭐⭐☆ | **Aplicações Web** | Aplicações web responsivas e funcionais |
 | ⭐⭐⭐⭐☆ | **Design UI/UX** | Design moderno & implementação com Figma |
 | ⭐⭐⭐⭐☆ | **Desenvolvimento Full-Stack** | Soluções completas end-to-end |
-
----
-
-## 📊 ESTATÍSTICAS DO GITHUB
-
-<a href="https://github.com/Plusnar">
-  <img src="https://github-readme-stats.vercel.app/api?username=Plusnar&show_icons=true&theme=radical&bg_color=0f0c29&text_color=e0e0e0&icon_color=00d4ff&border_color=00d4ff&hide_border=false" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/Plusnar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plusnar&layout=compact&theme=radical&bg_color=0f0c29&text_color=e0e0e0&border_color=00d4ff&hide_border=false" alt="Top Languages" />
-</a>
 
 ---
 
