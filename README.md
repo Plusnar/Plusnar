@@ -3,7 +3,6 @@
 # 🎮 WILLIAM FAGUNDES
 # **[ PLAYER PROFILE ]**
 
-[![Portfolio](https://img.shields.io/badge/Visit%20Interactive%20Portfolio-00d4ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1a2e)](https://github.com/Plusnar/-Plusnar.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-williamfagundes08-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/williamfagundes08)
 [![GitHub](https://img.shields.io/badge/GitHub-Plusnar-181717?style=flat-square&logo=github)](https://github.com/Plusnar)
 [![Behance](https://img.shields.io/badge/Behance-Design%20Portfolio-1769FF?style=flat-square&logo=behance)](https://behance.net/plusnar)
