@@ -5,22 +5,27 @@
 # 🎮 WILLIAM FAGUNDES
 ## **[ ⚡ PLAYER UNLOCKED ⚡ ]**
 
-### 🎯 MISSION STATEMENT | MISSÃO
+### 🔤 LANGUAGE | IDIOMA
 
-> **Full-Stack Developer** × **UI/UX Designer** × **Game Developer**  
-> **Desenvolvedor Full-Stack** × **Designer UI/UX** × **Desenvolvedor de Jogos**
-
-Building exceptional digital solutions with impact.  
-Construindo soluções digitais excepcionais com impacto.
-
-**Based in 🇧🇷 Brazil** • **Status:** 🔥 Open to Opportunities  
-**Baseado no 🇧🇷 Brasil** • **Status:** 🔥 Aberto para Oportunidades
+[**🇺🇸 ENGLISH**](#-english-version) | [**🇧🇷 PORTUGUÊS**](#-versão-em-português)
 
 </div>
 
 ---
 
-## 📡 CONNECT WITH ME | CONECTE COMIGO
+# 🇺🇸 ENGLISH VERSION
+
+## 🎯 MISSION STATEMENT
+
+> **Full-Stack Developer** × **UI/UX Designer** × **Game Developer**
+
+Building exceptional digital solutions with impact.
+
+**Based in 🇧🇷 Brazil** • **Status:** 🔥 Open to Opportunities
+
+---
+
+## 📡 CONNECT WITH ME
 
 <div align="center">
 
@@ -33,48 +38,47 @@ Construindo soluções digitais excepcionais com impacto.
 
 ---
 
-## 💡 SKILL POINTS DISTRIBUTION | DISTRIBUIÇÃO DE PONTOS DE HABILIDADE
+## 💡 SKILL POINTS DISTRIBUTION
 
-### 🗣️ Languages & Core Tech | Linguagens & Tecnologia Core
+### 🗣️ Languages & Core Tech
 
-| Language | Level | Linguagem | Nível |
-|:---|:---:|:---|:---:|
-| **Lua** | ████████░░ 80% | **Lua** | ████████░░ 80% |
-| **JavaScript** | ████████░░ 80% | **JavaScript** | ████████░░ 80% |
-| **Python** | ████████░░ 80% | **Python** | ████████░░ 80% |
-| **Java** | ███████░░░ 70% | **Java** | ███████░░░ 70% |
-| **PHP** | ███████░░░ 70% | **PHP** | ███████░░░ 70% |
+| Language | Level |
+|:---|:---:|
+| **Lua** | ████████░░ 80% |
+| **JavaScript** | ████████░░ 80% |
+| **Python** | ████████░░ 80% |
+| **Java** | ███████░░░ 70% |
+| **PHP** | ███████░░░ 70% |
 
-### 🛠️ Frameworks & Technologies | Frameworks & Tecnologias
+### 🛠️ Frameworks & Technologies
 
-| Framework | Level | Framework | Nível |
-|:---|:---:|:---|:---:|
-| **Bootstrap** | ████████░░ 80% | **Bootstrap** | ████████░░ 80% |
-| **Django** | ███████░░░ 70% | **Django** | ███████░░░ 70% |
-| **PyQt5** | ████████░░ 80% | **PyQt5** | ████████░░ 80% |
-| **JavaFX** | ███████░░░ 75% | **JavaFX** | ███████░░░ 75% |
-| **Godot** | ███████░░░ 70% | **Godot** | ███████░░░ 70% |
+| Framework | Level |
+|:---|:---:|
+| **Bootstrap** | ████████░░ 80% |
+| **Django** | ███████░░░ 70% |
+| **PyQt5** | ████████░░ 80% |
+| **JavaFX** | ███████░░░ 75% |
+| **Godot** | ███████░░░ 70% |
 
-### 🎨 Design & UX/UI Tools | Ferramentas de Design & UX/UI
+### 🎨 Design & UX/UI Tools
 
-| Tool | Level | Ferramenta | Nível |
-|:---|:---:|:---|:---:|
-| **Figma** | █████████░ 85% | **Figma** | █████████░ 85% |
-| **Canva** | █████████░ 85% | **Canva** | █████████░ 85% |
-| **Photoshop** | ████████░░ 80% | **Photoshop** | ████████░░ 80% |
-| **Adobe XD** | ███████░░░ 75% | **Adobe XD** | ███████░░░ 75% |
-| **Blender 3D** | ██████░░░░ 65% | **Blender 3D** | ██████░░░░ 65% |
+| Tool | Level |
+|:---|:---:|
+| **Figma** | █████████░ 85% |
+| **Canva** | █████████░ 85% |
+| **Photoshop** | ████████░░ 80% |
+| **Adobe XD** | ███████░░░ 75% |
+| **Blender 3D** | ██████░░░░ 65% |
 
 ---
 
-## ⚙️ TECH ARSENAL | ARSENAL TECNOLÓGICO
+## ⚙️ TECH ARSENAL
 
 <table>
 <tr>
 <td width="33%" align="center">
 
 ### 💻 Development Environments
-**Ambientes de Desenvolvimento**
 
 - Visual Studio Code
 - IntelliJ IDEA
@@ -87,7 +91,6 @@ Construindo soluções digitais excepcionais com impacto.
 <td width="33%" align="center">
 
 ### 🔄 Version Control & DevOps
-**Controle de Versão & DevOps**
 
 - Git Flow
 - GitHub Actions
@@ -100,7 +103,6 @@ Construindo soluções digitais excepcionais com impacto.
 <td width="33%" align="center">
 
 ### 🎯 Productivity Tools
-**Ferramentas de Produtividade**
 
 - Figma
 - Jira/Trello
@@ -115,22 +117,18 @@ Construindo soluções digitais excepcionais com impacto.
 
 ---
 
-## 🏆 ACHIEVEMENTS & PROJECTS | REALIZAÇÕES & PROJETOS
+## 🏆 ACHIEVEMENTS & PROJECTS
 
 | ⭐ | Achievement | Description |
 |:---:|:---|:---|
 | ⭐⭐⭐⭐☆ | **Game Development** | Academic & professional projects using Lua & C++ |
-| ⭐⭐⭐⭐☆ | **Desenvolvimento de Jogos** | Projetos acadêmicos e profissionais em Lua & C++ |
 | ⭐⭐⭐⭐☆ | **Web Applications** | Responsive, functional web applications |
-| ⭐⭐⭐⭐☆ | **Aplicações Web** | Aplicações web responsivas e funcionais |
 | ⭐⭐⭐⭐☆ | **UI/UX Design** | Modern design & implementation with Figma |
-| ⭐⭐⭐⭐☆ | **Design UI/UX** | Design moderno & implementação com Figma |
 | ⭐⭐⭐⭐☆ | **Full-Stack Dev** | Complete end-to-end solutions |
-| ⭐⭐⭐⭐☆ | **Desenvolvimento Full-Stack** | Soluções completas end-to-end |
 
 ---
 
-## 📊 STATS | ESTATÍSTICAS
+## 📊 GITHUB STATS
 
 <a href="https://github.com/Plusnar">
   <img src="https://github-readme-stats.vercel.app/api?username=Plusnar&show_icons=true&theme=radical&bg_color=0f0c29&text_color=e0e0e0&icon_color=00d4ff&border_color=00d4ff&hide_border=false" alt="GitHub Stats" />
@@ -142,7 +140,7 @@ Construindo soluções digitais excepcionais com impacto.
 
 ---
 
-## 🎮 CURRENT FOCUS | FOCO ATUAL
+## 🎮 CURRENT FOCUS
 
 ```
 ╔════════════════════════════════════════════════════╗
@@ -151,6 +149,162 @@ Construindo soluções digitais excepcionais com impacto.
 ║  🎨 UI/UX Design Principles & Best Practices      ║
 ║  🚀 Building Scalable Applications                ║
 ║  📚 Continuous Learning & Growth                  ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+### 🌟 **_"Code that brings ideas to life"_** 🌟
+
+**Last Updated:** April 2026 | **Status:** 🔥 Looking for Opportunities
+
+**Made with ❤️ by William Fagundes | Brazil 🇧🇷**
+
+</div>
+
+---
+
+---
+
+# 🇧🇷 VERSÃO EM PORTUGUÊS
+
+## 🎯 DECLARAÇÃO DE MISSÃO
+
+> **Desenvolvedor Full-Stack** × **Designer UI/UX** × **Desenvolvedor de Jogos**
+
+Construindo soluções digitais excepcionais com impacto.
+
+**Baseado no 🇧🇷 Brasil** • **Status:** 🔥 Em Busca de Oportunidades
+
+---
+
+## 📡 CONECTE COMIGO
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-williamfagundes08-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamfagundes08)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-@Plusnar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Plusnar)
+[![Behance](https://img.shields.io/badge/🎨_Behance-Design_Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/plusnar)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@plusnar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/plusnar)
+
+</div>
+
+---
+
+## 💡 DISTRIBUIÇÃO DE PONTOS DE HABILIDADE
+
+### 🗣️ Linguagens & Tecnologia Core
+
+| Linguagem | Nível |
+|:---|:---:|
+| **Lua** | ████████░░ 80% |
+| **JavaScript** | ████████░░ 80% |
+| **Python** | ████████░░ 80% |
+| **Java** | ███████░░░ 70% |
+| **PHP** | ███████░░░ 70% |
+
+### 🛠️ Frameworks & Tecnologias
+
+| Framework | Nível |
+|:---|:---:|
+| **Bootstrap** | ████████░░ 80% |
+| **Django** | ███████░░░ 70% |
+| **PyQt5** | ████████░░ 80% |
+| **JavaFX** | ███████░░░ 75% |
+| **Godot** | ███████░░░ 70% |
+
+### 🎨 Ferramentas de Design & UX/UI
+
+| Ferramenta | Nível |
+|:---|:---:|
+| **Figma** | █████████░ 85% |
+| **Canva** | █████████░ 85% |
+| **Photoshop** | ████████░░ 80% |
+| **Adobe XD** | ███████░░░ 75% |
+| **Blender 3D** | ██████░░░░ 65% |
+
+---
+
+## ⚙️ ARSENAL TECNOLÓGICO
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 💻 Ambientes de Desenvolvimento
+
+- Visual Studio Code
+- IntelliJ IDEA
+- PyCharm
+- Android Studio
+- Git & GitHub
+- Postman API
+
+</td>
+<td width="33%" align="center">
+
+### 🔄 Controle de Versão & DevOps
+
+- Git Flow
+- GitHub Actions
+- CI/CD Básico
+- Terminal Linux
+- Batch/PowerShell
+- Linha de Comando
+
+</td>
+<td width="33%" align="center">
+
+### 🎯 Ferramentas de Produtividade
+
+- Figma
+- Jira/Trello
+- Notion
+- Discord Dev Bot
+- Adobe Suite
+- Microsoft Office
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 REALIZAÇÕES & PROJETOS
+
+| ⭐ | Realização | Descrição |
+|:---:|:---|:---|
+| ⭐⭐⭐⭐☆ | **Desenvolvimento de Jogos** | Projetos acadêmicos e profissionais em Lua & C++ |
+| ⭐⭐⭐⭐☆ | **Aplicações Web** | Aplicações web responsivas e funcionais |
+| ⭐⭐⭐⭐☆ | **Design UI/UX** | Design moderno & implementação com Figma |
+| ⭐⭐⭐⭐☆ | **Desenvolvimento Full-Stack** | Soluções completas end-to-end |
+
+---
+
+## 📊 ESTATÍSTICAS DO GITHUB
+
+<a href="https://github.com/Plusnar">
+  <img src="https://github-readme-stats.vercel.app/api?username=Plusnar&show_icons=true&theme=radical&bg_color=0f0c29&text_color=e0e0e0&icon_color=00d4ff&border_color=00d4ff&hide_border=false" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/Plusnar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plusnar&layout=compact&theme=radical&bg_color=0f0c29&text_color=e0e0e0&border_color=00d4ff&hide_border=false" alt="Top Languages" />
+</a>
+
+---
+
+## 🎮 FOCO ATUAL
+
+```
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║  🔧 Excelência em Desenvolvimento Full-Stack       ║
+║  🎨 Princípios de Design UI/UX & Boas Práticas   ║
+║  🚀 Construindo Aplicações Escaláveis             ║
+║  📚 Aprendizado Contínuo & Crescimento            ║
 ║                                                    ║
 ║  SEMPRE EVOLUINDO - CONSTRUINDO - CRIANDO         ║
 ║                                                    ║
@@ -163,12 +317,8 @@ Construindo soluções digitais excepcionais com impacto.
 
 ### 🌟 **_"O código que dá vida às ideias"_** 🌟
 
----
-
-**Last Updated:** April 2026 | **Status:** 🔥 Looking for Opportunities  
 **Última Atualização:** Abril 2026 | **Status:** 🔥 Em Busca de Oportunidades
 
-**Made with ❤️ by William Fagundes | Brazil 🇧🇷**  
 **Feito com ❤️ por William Fagundes | Brasil 🇧🇷**
 
 </div>
