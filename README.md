@@ -1,77 +1,80 @@
 <div align="center">
 
+![William Fagundes Profile](https://i.pinimg.com/originals/8a/e8/26/8ae826dba6a224dba3e49bf045583254.gif)
+
 # 🎮 WILLIAM FAGUNDES
-# **[ PLAYER PROFILE ]**
+## **[ ⚡ PLAYER UNLOCKED ⚡ ]**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-williamfagundes08-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/williamfagundes08)
-[![GitHub](https://img.shields.io/badge/GitHub-Plusnar-181717?style=flat-square&logo=github)](https://github.com/Plusnar)
-[![Behance](https://img.shields.io/badge/Behance-Design%20Portfolio-1769FF?style=flat-square&logo=behance)](https://behance.net/plusnar)
+### 🎯 MISSION STATEMENT | MISSÃO
 
-![Profile Views](https://komarev.com/ghpvc/?username=Plusnar&color=00d4ff&style=flat-square)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-00d4ff?style=flat-square)
+> **Full-Stack Developer** × **UI/UX Designer** × **Game Developer**  
+> **Desenvolvedor Full-Stack** × **Designer UI/UX** × **Desenvolvedor de Jogos**
 
----
+Building exceptional digital solutions with impact.  
+Construindo soluções digitais excepcionais com impacto.
 
-### 🎯 MISSION STATEMENT
-
-> **Full-Stack Developer** × **UI/UX Designer** × **Game Developer**
->
-> Building exceptional digital solutions with impact.
-> Based in 🇧🇷 **Brazil** • Looking for Opportunities
+**Based in 🇧🇷 Brazil** • **Status:** 🔥 Open to Opportunities  
+**Baseado no 🇧🇷 Brasil** • **Status:** 🔥 Aberto para Oportunidades
 
 </div>
 
 ---
+
+## 📡 CONNECT WITH ME | CONECTE COMIGO
 
 <div align="center">
 
-## 💡 SKILL POINTS DISTRIBUTION
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-williamfagundes08-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamfagundes08)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-@Plusnar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Plusnar)
+[![Behance](https://img.shields.io/badge/🎨_Behance-Design_Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/plusnar)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@plusnar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/plusnar)
 
 </div>
-
-### 🗣️ Languages & Core Tech
-
-| Language | Proficiency |
-|:---|:---:|
-| **Lua** | ████████░░ 80% |
-| **JavaScript** | ████████░░ 80% |
-| **Python** | ████████░░ 80% |
-| **Java** | ███████░░░ 70% |
-| **PHP** | ███████░░░ 70% |
-
-### 🛠️ Frameworks & Technologies
-
-| Framework | Proficiency |
-|:---|:---:|
-| **Bootstrap** | ████████░░ 80% |
-| **Django** | ███████░░░ 70% |
-| **PyQt5** | ████████░░ 80% |
-| **JavaFX** | ███████░░░ 75% |
-| **Godot** | ███████░░░ 70% |
-
-### 🎨 Design & UX/UI Tools
-
-| Tool | Proficiency |
-|:---|:---:|
-| **Figma** | █████████░ 85% |
-| **Canva** | █████████░ 85% |
-| **Photoshop** | ████████░░ 80% |
-| **Adobe XD** | ███████░░░ 75% |
-| **Blender 3D** | ██████░░░░ 65% |
 
 ---
 
-<div align="center">
+## 💡 SKILL POINTS DISTRIBUTION | DISTRIBUIÇÃO DE PONTOS DE HABILIDADE
 
-## 🛠️ TECH STACK [ UNLOCKED ]
+### 🗣️ Languages & Core Tech | Linguagens & Tecnologia Core
 
-</div>
+| Language | Level | Linguagem | Nível |
+|:---|:---:|:---|:---:|
+| **Lua** | ████████░░ 80% | **Lua** | ████████░░ 80% |
+| **JavaScript** | ████████░░ 80% | **JavaScript** | ████████░░ 80% |
+| **Python** | ████████░░ 80% | **Python** | ████████░░ 80% |
+| **Java** | ███████░░░ 70% | **Java** | ███████░░░ 70% |
+| **PHP** | ███████░░░ 70% | **PHP** | ███████░░░ 70% |
+
+### 🛠️ Frameworks & Technologies | Frameworks & Tecnologias
+
+| Framework | Level | Framework | Nível |
+|:---|:---:|:---|:---:|
+| **Bootstrap** | ████████░░ 80% | **Bootstrap** | ████████░░ 80% |
+| **Django** | ███████░░░ 70% | **Django** | ███████░░░ 70% |
+| **PyQt5** | ████████░░ 80% | **PyQt5** | ████████░░ 80% |
+| **JavaFX** | ███████░░░ 75% | **JavaFX** | ███████░░░ 75% |
+| **Godot** | ███████░░░ 70% | **Godot** | ███████░░░ 70% |
+
+### 🎨 Design & UX/UI Tools | Ferramentas de Design & UX/UI
+
+| Tool | Level | Ferramenta | Nível |
+|:---|:---:|:---|:---:|
+| **Figma** | █████████░ 85% | **Figma** | █████████░ 85% |
+| **Canva** | █████████░ 85% | **Canva** | █████████░ 85% |
+| **Photoshop** | ████████░░ 80% | **Photoshop** | ████████░░ 80% |
+| **Adobe XD** | ███████░░░ 75% | **Adobe XD** | ███████░░░ 75% |
+| **Blender 3D** | ██████░░░░ 65% | **Blender 3D** | ██████░░░░ 65% |
+
+---
+
+## ⚙️ TECH ARSENAL | ARSENAL TECNOLÓGICO
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 💻 Development<br/>Environments
+### 💻 Development Environments
+**Ambientes de Desenvolvimento**
 
 - Visual Studio Code
 - IntelliJ IDEA
@@ -83,7 +86,8 @@
 </td>
 <td width="33%" align="center">
 
-### 🔄 Version Control<br/>& DevOps
+### 🔄 Version Control & DevOps
+**Controle de Versão & DevOps**
 
 - Git Flow
 - GitHub Actions
@@ -95,7 +99,8 @@
 </td>
 <td width="33%" align="center">
 
-### 🎯 Productivity<br/>Tools
+### 🎯 Productivity Tools
+**Ferramentas de Produtividade**
 
 - Figma
 - Jira/Trello
@@ -110,120 +115,60 @@
 
 ---
 
-<div align="center">
+## 🏆 ACHIEVEMENTS & PROJECTS | REALIZAÇÕES & PROJETOS
 
-## 🏆 ACHIEVEMENTS & PROJECTS
-
-</div>
-
-| Star | Achievement | Description |
+| ⭐ | Achievement | Description |
 |:---:|:---|:---|
 | ⭐⭐⭐⭐☆ | **Game Development** | Academic & professional projects using Lua & C++ |
+| ⭐⭐⭐⭐☆ | **Desenvolvimento de Jogos** | Projetos acadêmicos e profissionais em Lua & C++ |
 | ⭐⭐⭐⭐☆ | **Web Applications** | Responsive, functional web applications |
+| ⭐⭐⭐⭐☆ | **Aplicações Web** | Aplicações web responsivas e funcionais |
 | ⭐⭐⭐⭐☆ | **UI/UX Design** | Modern design & implementation with Figma |
+| ⭐⭐⭐⭐☆ | **Design UI/UX** | Design moderno & implementação com Figma |
 | ⭐⭐⭐⭐☆ | **Full-Stack Dev** | Complete end-to-end solutions |
+| ⭐⭐⭐⭐☆ | **Desenvolvimento Full-Stack** | Soluções completas end-to-end |
 
 ---
 
-<div align="center">
+## 📊 STATS | ESTATÍSTICAS
 
-## 📱 SOCIAL NETWORK [ CONNECTIONS ]
-
-</div>
-
-<div align="center">
-
-[![Behance](https://img.shields.io/badge/🎨%20Behance-Design%20Portfolio-1769FF?style=for-the-badge)](https://behance.net/plusnar)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-William%20Fagundes-0077B5?style=for-the-badge)](https://linkedin.com/in/williamfagundes08)
-[![Instagram](https://img.shields.io/badge/📸%20Instagram-@plusnar-E4405F?style=for-the-badge)](https://instagram.com/plusnar)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-@Plusnar-181717?style=for-the-badge)](https://github.com/Plusnar)
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 FEATURED PROJECT
-
-### 🎯 **Interactive Portfolio** 
-
-#### A modern, bilingual portfolio with professional design
-
-<details>
-<summary><b>✨ Click to see features</b></summary>
-
-- ✨ **Smooth Animations & Transitions** - Professional UI movements
-- 🌙 **Dark Theme** - Gradient accents (Cyan #00d4ff & Purple #7928ca)
-- 📊 **Skill Distribution** - Tables with interactive progress bars
-- 🎭 **Language Toggle** - English / Português switching
-- 📱 **Fully Responsive** - Mobile, tablet, and desktop optimized
-- ⚡ **Lightweight** - Fast loading & high performance
-- 🎮 **Game-Inspired UI** - Modern "Player Profile" concept
-
-</details>
-
-### **👉 [VISIT PORTFOLIO](https://github.com/Plusnar/-Plusnar.github.io)**
-
----
-
-## 📊 GitHub Analytics
-
-<!-- GitHub Stats Card -->
 <a href="https://github.com/Plusnar">
   <img src="https://github-readme-stats.vercel.app/api?username=Plusnar&show_icons=true&theme=radical&bg_color=0f0c29&text_color=e0e0e0&icon_color=00d4ff&border_color=00d4ff&hide_border=false" alt="GitHub Stats" />
 </a>
 
-<!-- Top Languages Card -->
 <a href="https://github.com/Plusnar">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plusnar&layout=compact&theme=radical&bg_color=0f0c29&text_color=e0e0e0&border_color=00d4ff&hide_border=false" alt="Top Languages" />
 </a>
 
 ---
 
-## 💡 CURRENT FOCUS
+## 🎮 CURRENT FOCUS | FOCO ATUAL
 
 ```
-┌─────────────────────────────────────────────┐
-│  🔧 Full-Stack Development Excellence       │
-│  🎨 UI/UX Design Principles & Best Practices│
-│  🚀 Building Scalable Applications          │
-│  📚 Continuous Learning & Growth            │
-└─────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║  🔧 Full-Stack Development Excellence             ║
+║  🎨 UI/UX Design Principles & Best Practices      ║
+║  🚀 Building Scalable Applications                ║
+║  📚 Continuous Learning & Growth                  ║
+║                                                    ║
+║  SEMPRE EVOLUINDO - CONSTRUINDO - CRIANDO         ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 ```
-
----
-
-## 📌 QUICK LINKS
-
-- **Portfolio**: [View Interactive Portfolio](https://github.com/Plusnar/-Plusnar.github.io)
-- **GitHub**: [github.com/Plusnar](https://github.com/Plusnar)
-- **LinkedIn**: [linkedin.com/in/williamfagundes08](https://linkedin.com/in/williamfagundes08)
-- **Behance**: [behance.net/plusnar](https://behance.net/plusnar)
 
 ---
 
 <div align="center">
 
-### ✨ **_"O código que dá vida às ideias"_** ✨
-
-```
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║  SEMPRE EVOLUINDO - CONSTRUINDO - CRIANDO         ║
-║                                                    ║
-║     Open to Opportunities • Let's Build Together  ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
-
-**Last Updated:** April 2026  
-**Status:** 📌 Looking for Opportunities  
-**Contact:** [williamfagundes08@email.com](mailto:)
+### 🌟 **_"O código que dá vida às ideias"_** 🌟
 
 ---
 
-<sub>Made with ❤️ by William Fagundes | Brazil 🇧🇷</sub>
+**Last Updated:** April 2026 | **Status:** 🔥 Looking for Opportunities  
+**Última Atualização:** Abril 2026 | **Status:** 🔥 Em Busca de Oportunidades
+
+**Made with ❤️ by William Fagundes | Brazil 🇧🇷**  
+**Feito com ❤️ por William Fagundes | Brasil 🇧🇷**
 
 </div>
-
