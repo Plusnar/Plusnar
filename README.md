@@ -292,8 +292,6 @@ Construindo soluções digitais excepcionais com impacto.
 
 ### 🌟 **_"O código que dá vida às ideias"_** 🌟
 
-**Última Atualização:** Abril 2026 | **Status:** 🔥 Em Busca de Oportunidades
 
-**Feito com ❤️ por William Fagundes | Brasil 🇧🇷**
 
 </div>
