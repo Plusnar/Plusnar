@@ -146,7 +146,7 @@ Building exceptional digital solutions with impact.
 
 <div align="center">
 
-### 🌟 **_"Code that brings ideas to life"_** 🌟
+
 
 
 </div>
