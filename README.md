@@ -290,7 +290,7 @@ Construindo soluções digitais excepcionais com impacto.
 
 <div align="center">
 
-### 🌟 **_"O código que dá vida às ideias"_** 🌟
+
 
 
 
