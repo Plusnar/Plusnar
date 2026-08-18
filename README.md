@@ -12,7 +12,7 @@ Transformo problemas reais em soluções digitais por meio de software, automaç
 [![GitHub](https://img.shields.io/badge/GitHub-Plusnar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Plusnar)
 [![Behance](https://img.shields.io/badge/Behance-Portfólio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/plusnar)
 
-📍 São Bento do Sul, SC, Brasil · 🎯 Em busca de estágio na área de Tecnologia
+📍 São Bento do Sul, SC, Brasil 
 
 ### Idioma / Language
 
