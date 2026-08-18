@@ -1,9 +1,5 @@
 <div align="center">
 
-![William Fagundes Profile](https://i.pinimg.com/originals/8a/e8/26/8ae826dba6a224dba3e49bf045583254.gif)
-
-<div align="center">
-
 ![William Fagundes](https://i.pinimg.com/originals/8a/e8/26/8ae826dba6a224dba3e49bf045583254.gif)
 
 # Olá, eu sou William Fagundes 👋
@@ -275,16 +271,5 @@ An assistant designed to make Univille institutional information easier to acces
 [LinkedIn](https://linkedin.com/in/williamfagundes08) · [GitHub](https://github.com/Plusnar) · [Behance](https://behance.net/plusnar)
 
 [⬆️ Voltar ao topo / Back to top](#olá-eu-sou-william-fagundes-)
-
-</div>
-
-
----
-
-<div align="center">
-
-
-
-
 
 </div>
