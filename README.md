@@ -12,7 +12,7 @@ Transformo problemas reais em soluções digitais por meio de software, automaç
 [![GitHub](https://img.shields.io/badge/GitHub-Plusnar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Plusnar)
 [![Behance](https://img.shields.io/badge/Behance-Portfólio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/plusnar)
 
-📍 São Bento do Sul, SC, Brasil · 🎯 Em busca de estágio na área de Tecnologia
+📍 São Bento do Sul, SC, Brasil · 🎯 
 
 ### Idioma / Language
 
@@ -152,8 +152,6 @@ I am a **Univille student** and an aspiring software developer with a particular
 I have hands-on experience building web applications, integrating APIs, designing interfaces and creating game prototypes. I also work with **Large Language Models (LLMs)** and **RAG (Retrieval-Augmented Generation)** architectures to develop assistants that retrieve information from knowledge bases and generate context-aware answers.
 
 My professional experience keeps me close to real challenges involving operations, customer service and process improvement. It has taught me to understand user needs before choosing a technology, communicate ideas clearly and pursue solutions that deliver practical results.
-
-I am looking for a technology internship where I can learn from experienced professionals, collaborate with a team and contribute to useful, reliable and user-friendly products.
 
 ---
 
