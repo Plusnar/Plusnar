@@ -12,7 +12,7 @@ Transformo problemas reais em soluções digitais por meio de software, automaç
 [![GitHub](https://img.shields.io/badge/GitHub-Plusnar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Plusnar)
 [![Behance](https://img.shields.io/badge/Behance-Portfólio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/plusnar)
 
-📍 São Bento do Sul, SC, Brasil · 🎯 
+📍 São Bento do Sul, SC, Brasil · 🎯 Em busca de estágio na área de Tecnologia
 
 ### Idioma / Language
 
@@ -31,8 +31,6 @@ Sou estudante da **Univille** e desenvolvedor em formação, com interesse espec
 Tenho experiência prática na criação de aplicações web, integração de APIs, interfaces e protótipos de jogos. Também trabalho com **Large Language Models (LLMs)** e arquiteturas **RAG (Retrieval-Augmented Generation)** para desenvolver assistentes capazes de consultar bases de conhecimento e gerar respostas contextualizadas.
 
 Minha vivência profissional me mantém próximo de desafios reais de operação, atendimento e melhoria de processos. Isso me ensinou a entender a necessidade do usuário antes de escolher a tecnologia, comunicar ideias com clareza e buscar soluções que gerem resultado.
-
-Procuro uma oportunidade de estágio em que eu possa aprender com profissionais experientes, colaborar com o time e contribuir na construção de produtos úteis, confiáveis e fáceis de usar.
 
 ---
 
@@ -152,6 +150,7 @@ I am a **Univille student** and an aspiring software developer with a particular
 I have hands-on experience building web applications, integrating APIs, designing interfaces and creating game prototypes. I also work with **Large Language Models (LLMs)** and **RAG (Retrieval-Augmented Generation)** architectures to develop assistants that retrieve information from knowledge bases and generate context-aware answers.
 
 My professional experience keeps me close to real challenges involving operations, customer service and process improvement. It has taught me to understand user needs before choosing a technology, communicate ideas clearly and pursue solutions that deliver practical results.
+
 
 ---
 
